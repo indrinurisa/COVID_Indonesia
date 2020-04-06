@@ -116,4 +116,4 @@
 ##KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
 * [Halid_Misfal_Karbala](https://www.linkedin.com/in/halid-misfal-karbala-a556291a3/)
-* [Indri Nurisa Arda Rini](https://www.linkedin.com/mwlite/in/indri-nurisa-arda-rini-29235b1a6) 
+* [Indri_Nurisa_Arda_Rini](https://www.linkedin.com/mwlite/in/indri-nurisa-arda-rini-29235b1a6) 
